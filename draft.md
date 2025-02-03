@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Rlinguo — Why Did We Build It?](https://rtask.thinkr.fr/rlinguo-why-did-we-build-it/)
 
 ### R in the Real World
 
