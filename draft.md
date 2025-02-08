@@ -44,6 +44,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{ggsurveillance} 0.1.1](https://cloud.r-project.org/package=ggsurveillance): Tools for Outbreak Investigation and Infectious Disease Surveillance, like Epicurves in 'ggplot2'
 
 
 **Bioconductor**
