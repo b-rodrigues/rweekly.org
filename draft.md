@@ -1,10 +1,8 @@
 ---
-layout: draft
-title: R Weekly 2025-W07
-description: Draft of the R Weekly
+title: R Weekly 2025-W07 Monochrome plots, Tidying text, Rlinguo
+description: Weekly News in the R Community
 image: https://rweekly.org/public/facebook.png
 ---
-
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
@@ -12,47 +10,39 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 with help from the RWeekly team members and contributors. This issue includes 
 some posts we overlooked over the end of year break.
 
-
 ### Highlight
 
++ [Designing monochrome data visualisations](https://nrennie.rbind.io/blog/monochrome-data-visualisations/)
 
++ [The life changing magic of tidying text files](https://johnmackintosh.net/blog/rstats/2024-12-22-tidying-text-files/)
+
++ [Rlinguo — Why Did We Build It?](https://rtask.thinkr.fr/rlinguo-why-did-we-build-it/)
 
 ### Insights
 
++ [Exploring the bioRxiv API with R, httr2, rvest, tidytext, and Datawrapper](https://blog.stephenturner.us/p/exploring-the-biorxiv-api-with-r-httr2-rvest-tidytext-datawrapper)
 + [Rlinguo — Why Did We Build It?](https://rtask.thinkr.fr/rlinguo-why-did-we-build-it/)
 + [Kerning and Kerning in a Widening Gyre](https://kieranhealy.org/blog/archives/2025/02/06/kerning-and-kerning-in-a-widening-gyre/)
 + [Key considerations for retiring/superseding an R package](https://epiverse-trace.github.io/posts/superseding-bpmodels/)
 + [Designing monochrome data visualisations](https://nrennie.rbind.io/blog/monochrome-data-visualisations/)
-+ [3MW (Save Data at AWS S3 With {paws})](https://3mw.albert-rapp.de/p/save-data-at-aws-s3-with-paws)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2025/W07/set3_1_2_600.png)
+
++ [3MW (Save Data at AWS S3 With {paws})](https://3mw.albert-rapp.de/p/save-data-at-aws-s3-with-paws)
 + [How to Combine Lists in R: A Complete Guide with Examples](https://www.spsanderson.com/steveondata/posts/2025-02-06/)
 + [How to Append Values to List in R: A Complete Guide with Examples](https://www.spsanderson.com/steveondata/posts/2025-02-04/)
 + [How to Append Values to a Vector Using a Loop in R: A Comprehensive Guide](https://www.spsanderson.com/steveondata/posts/2025-02-03/)
 + [How to dynamically aggregate any dataset in R with purrr and dplyr](https://discindo.org/posts/2025-02-06-aggregate-snippet/)
 + [Simpson’s Paradox in a Logistic Regression](https://rworks.dev/posts/simpsons-paradox/)
-
 + [The life changing magic of tidying text files](https://johnmackintosh.net/blog/rstats/2024-12-22-tidying-text-files/)
 + [Depression incidence by county and vote for Trump by @ellis2013nz](https://freerangestats.info/blog/2024/12/23/depression-and-vote)
 + [Should you Submit Papers before Christmas? Submission Percentages across Months of the Year](http://jmbh.github.io//ChristmasSubmission/)
 + [Launch RStudio, Positron, and other Data Science apps from your Finder Toolbar](https://remlapmot.github.io/post/2024/finder-toolbar-apps/)
 + [Introducing the {pipeflow} package](https://rpahl.github.io/r-some-blog/posts/2024-12-21-introducing-pipeflow)
-
 + [Creating an animated Christmas tree in R](https://www.jumpingrivers.com/blog/christmas-tree/)
 + [Impact of Trump’s Win on Financial ETFs](https://datageeek.com/2024/12/24/impact-of-trumps-win-on-financial-etfs/)
 + [Speak at posit::conf(2025)!](https://posit.co/blog/speak-at-posit-conf-2025/)
 + [Dyson’s Algorithm for the Twelve Coins Problem](https://rworks.dev/posts/dysons-algorithm/)
-
-### R in the Real World
-
-
-
-### R in Organizations
-
-
-
-### R in Academia
-
-
 
 ### Resources
 
@@ -62,7 +52,6 @@ some posts we overlooked over the end of year break.
 
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
-
 
 **CRAN**
 
@@ -81,16 +70,12 @@ some posts we overlooked over the end of year break.
 + [{shinykanban} 0.0.1](https://cran.r-project.org/package=shinykanban): Create Kanban Board in Shiny Applications
 + [{authoritative} 0.1.0](https://cran.r-project.org/package=authoritative): Parse and Deduplicate Author Names
 + [{raybevel} 0.2.2](https://cran.r-project.org/package=raybevel): Generates Polygon Straight Skeletons and 3D Bevels
-+ [{autoimport} 0.1.1](https://cran.r-project.org/package=autoimport): Automatic Generation of @importFrom Tags
++ [{autoimport} 0.1.1](https://cran.r-project.org/package=autoimport): Automatic Generation of `@importFrom` Tags
 + [{timeplyr} 1.0.0](https://cran.r-project.org/package=timeplyr): Fast Tidy Tools for Date and Date-Time Manipulation
 
-**Bioconductor**
+**GitHub**
 
-
-
-**GitHub or Bitbucket**
-
-
++ [ausvotesTR - an R package for exploring Australian federal political donations](https://damonism.net/posts/ausvotestr-an-r-package-for-exploring-australian-federal-political-donations/)
 
 ### Updated Packages
 
@@ -142,23 +127,9 @@ Biomart - [diffify](https://diffify.com/R/convertid)
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
-
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
-
 ### Tutorials
 
 + [A simple test of the martingale hypothesis in esgtoolkit](https://thierrymoudiki.github.io/blog/2025/02/03/r/martingale-esgtoolkit)
-
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -178,17 +149,11 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-### Grants & Funding
-
-
-### Datasets
-
-
 ### Connect
 
 <i>[Join the Data Science Learning Community](https://DSLC.io/)</i>
 
 ### rtistry
 
+<iframe src="https://genart.social/@georgemsavva/113961116346134732/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
 
-### Quotes of the Week
