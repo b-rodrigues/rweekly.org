@@ -77,6 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Your Definitive Guide to Seamless Authentication with Auth0 in Shiny Apps](https://www.datachamp.fr/en/posts/auth0/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
