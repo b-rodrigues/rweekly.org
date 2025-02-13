@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [Forecasting Food Commodity Prices - Ethiopia](https://jokasan.github.io/FEWS_Ethiopia_Food_Prices/)
 
 ### R in Organizations
 
