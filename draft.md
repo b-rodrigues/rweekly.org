@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Lazy introduction to laziness in R](https://blog.r-hub.io/2025/02/13/lazy-meanings/)
 
 ### R in the Real World
 
