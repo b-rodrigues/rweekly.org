@@ -19,6 +19,13 @@
 + [Sign Up for Appsilon’s Tiny Shiny Hackathon: Build, Compete, and Win!](https://www.appsilon.com/post/tiny-shiny-hackathon)
 + [A plumber API to filter and aggregate datasets](https://discindo.org/posts/2025-02-13-plumber-snippet/)
 # CRANberries UPDATED: ##
++ [{rolog} 0.9.20](https://cran.r-project.org/package=rolog): Query 'SWI'-'Prolog' from R - [diffify](https://diffify.com/R/rolog)
++ [{IceSat2R} 1.0.7](https://cran.r-project.org/package=IceSat2R): ICESat-2 Altimeter Data using R - [diffify](https://diffify.com/R/IceSat2R)
++ [{flexsurvcure} 1.3.3](https://cran.r-project.org/package=flexsurvcure): Flexible Parametric Cure Models - [diffify](https://diffify.com/R/flexsurvcure)
++ [{MapperAlgo} 1.0.2](https://cran.r-project.org/package=MapperAlgo): Topological Data Analysis: Mapper Algorithm - [diffify](https://diffify.com/R/MapperAlgo)
++ [{r2redux} 1.0.18](https://cran.r-project.org/package=r2redux): R2 Statistic - [diffify](https://diffify.com/R/r2redux)
++ [{oneinfl} 1.0.1](https://cran.r-project.org/package=oneinfl): Estimates OIPP and OIZTNB Regression Models - [diffify](https://diffify.com/R/oneinfl)
++ [{ife} 0.1.12](https://cran.r-project.org/package=ife): Influence Function Based Estimate Objects - [diffify](https://diffify.com/R/ife)
 + [{R6} 2.6.1](https://cran.r-project.org/package=R6): Encapsulated Classes with Reference Semantics - [diffify](https://diffify.com/R/R6)
 + [{nlive} 0.7.0](https://cran.r-project.org/package=nlive): Automated Estimation of Sigmoidal and Piecewise Linear Mixed
 Models - [diffify](https://diffify.com/R/nlive)
@@ -238,13 +245,6 @@ Weights - [diffify](https://diffify.com/R/svrep)
 + [{shiny2docker} 0.0.2](https://cran.r-project.org/package=shiny2docker): Generate Dockerfiles for 'Shiny' Applications - [diffify](https://diffify.com/R/shiny2docker)
 + [{kpiwidget} 0.1.1](https://cran.r-project.org/package=kpiwidget): KPI Widgets for Quarto Dashboards with Crosstalk - [diffify](https://diffify.com/R/kpiwidget)
 + [{UKFE} 0.4.0](https://cran.r-project.org/package=UKFE): UK Flood Estimation - [diffify](https://diffify.com/R/UKFE)
-+ [{MethodCompare} 1.1.0](https://cran.r-project.org/package=MethodCompare): Evaluating Bias and Precision in Method Comparison Studies - [diffify](https://diffify.com/R/MethodCompare)
-+ [{clustermq} 0.9.7](https://cran.r-project.org/package=clustermq): Evaluate Function Calls on HPC Schedulers (LSF, SGE, SLURM,
-PBS/Torque) - [diffify](https://diffify.com/R/clustermq)
-+ [{treefit} 1.0.3](https://cran.r-project.org/package=treefit): The First Software for Quantitative Trajectory Inference - [diffify](https://diffify.com/R/treefit)
-+ [{plotor} 0.5.2](https://cran.r-project.org/package=plotor): Produces an Odds Ratio Plot from a Logistic Regression Model - [diffify](https://diffify.com/R/plotor)
-+ [{valentine} 2025.2.14](https://cran.r-project.org/package=valentine): Spread the Love for R Packages with Poetry - [diffify](https://diffify.com/R/valentine)
-+ [{details} 0.4.0](https://cran.r-project.org/package=details): Create Details HTML Tag for Markdown and Package Documentation - [diffify](https://diffify.com/R/details)
 # CRANberries NEW: ##
 + [{TransProR} 1.0.2](https://cran.r-project.org/package=TransProR): Analysis and Visualization of Multi-Omics Data
 + [{rangr} 1.0.5](https://cran.r-project.org/package=rangr): Mechanistic Simulation of Species Range Dynamics
