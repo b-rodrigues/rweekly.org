@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Why we forked nixpkgs](https://brodrigues.co/posts/2025-02-17-rstats-on-nix.html)
 
 ### R in the Real World
 
