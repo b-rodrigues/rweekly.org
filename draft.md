@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+- [nhyris - The minimal framework for transform R shiny application into standalone](https://blog.jahnen.io/nhyris/)
 
 ### R in the Real World
 
