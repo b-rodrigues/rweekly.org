@@ -18,7 +18,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-- [nhyris - The minimal framework for transform R shiny application into standalone](https://blog.jahnen.io/nhyris/)
++ [Why we forked nixpkgs](https://brodrigues.co/posts/2025-02-17-rstats-on-nix.html)
+
++ [nhyris - The minimal framework for transform R shiny application into standalone](https://blog.jahnen.io/nhyris/)
 
 ### R in the Real World
 
