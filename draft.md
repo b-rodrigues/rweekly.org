@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-+ [Why we forked nixpkgs](https://b-rodrigues.github.io/posts/2025-02-17-rstats-on-nix.html)
++ [Why we forked nixpkgs](https://brodrigues.co/posts/2025-02-17-rstats-on-nix.html)
 
 + [Rcpp now used by 3000 CRAN packages!](http://dirk.eddelbuettel.com/blog/2025/02/20#rcpp_3000_packages)
 
